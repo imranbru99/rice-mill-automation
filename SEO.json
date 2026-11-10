@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "rice-mill-automation",
+  "description": "Rice Mill Automation — Food Processing Laravel Filament ERP/SaaS for Bangladesh (Dinajpur). Rice mill automation for paddy purchase, milling stages, by-product tracking, and dealer dispatch. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "food-processing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/rice-mill-automation"
+}
